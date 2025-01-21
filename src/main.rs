@@ -30,5 +30,5 @@ mod tests {
 fn main() {
     let a = 10;
     let b = 20;
-    println!("The sum of {} and {} is {}, and this is cool", a, b, add(a, b));
+    println!("The sum of {} and {} is {}, and this is cool, and other stuff", a, b, add(a, b));
 }
