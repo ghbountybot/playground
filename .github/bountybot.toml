@@ -1,0 +1,10 @@
+# Default application configuration
+# This configuration serves as a template and fallback
+
+# Discord integration settings
+[discord]
+
+# The Discord guild/server ID. This is where communication discussing the issue will take place.
+# By default, this is the bountybot Discord server. https://discord.gg/pyundXvsQn
+# If you install our bot on your own server, you can change this to your server's ID.
+guildId = "69"
